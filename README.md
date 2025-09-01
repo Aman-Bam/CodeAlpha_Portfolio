@@ -185,7 +185,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Aman Bam**
-- Portfolio: [Live Demo](https://aman-bam.github.io/portfolio-website/)
+- Portfolio: [Live Demo](https://aman-bam.github.io/CodeAlpha_Portfolio/)
 - LinkedIn: [Aman Bam](https://www.linkedin.com/in/aman-bam/)
 - GitHub: [@Aman-Bam](https://github.com/Aman-Bam)
 - Phone: +91 9259269317
